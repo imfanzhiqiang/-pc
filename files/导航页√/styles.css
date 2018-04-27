@@ -3762,15 +3762,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:61px;
+  width:1201px;
   height:2px;
 }
 #u128 {
   border-width:0px;
   position:absolute;
-  left:589px;
-  top:495px;
-  width:60px;
+  left:100px;
+  top:91px;
+  width:1200px;
   height:1px;
 }
 #u128_text {
@@ -3793,12 +3793,37 @@
 #u129 {
   border-width:0px;
   position:absolute;
-  left:749px;
+  left:589px;
   top:495px;
   width:60px;
   height:1px;
 }
 #u129_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u130_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:61px;
+  height:2px;
+}
+#u130 {
+  border-width:0px;
+  position:absolute;
+  left:749px;
+  top:495px;
+  width:60px;
+  height:1px;
+}
+#u130_text {
   border-width:0px;
   position:absolute;
   left:0px;
